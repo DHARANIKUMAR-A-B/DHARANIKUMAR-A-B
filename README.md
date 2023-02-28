@@ -16,8 +16,7 @@ Hi, I am DHARANIKUMARA A B👋
 - Machine Learning
 - UI/UX Design
 ### Skills
-- Python, C++ (Intermediate)
-- Java (Basic)
+- C
 ### Tools
 - Jupyter notebook
 - Google Colab
